@@ -1,2 +1,2 @@
 # TraderBot
-Manage your Online Trades
+Trader-Bot, Helps you make success online tradings
